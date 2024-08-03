@@ -24,7 +24,7 @@ This Django-based web application allows users to upload CSV files, perform data
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/Divyansh2202/VE3_Assessment.git
     cd your-repo
     ```
 
