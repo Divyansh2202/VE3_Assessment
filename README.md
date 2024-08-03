@@ -2,6 +2,11 @@
 
 This Django-based web application allows users to upload CSV files, perform data analysis using `pandas` and `numpy`, and view the results and visualizations on the web interface.
 
+## Required Commands To Run The Project
+- Step 1 : Clone the repository
+- Step 2 : Run command "python manage.py runserver"
+ 
+
 ## Features
 
 - **File Upload**: Upload CSV files through the web interface.
